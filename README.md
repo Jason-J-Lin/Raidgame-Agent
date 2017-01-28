@@ -1,5 +1,7 @@
-# Raidgame-Agent
-<b/> 
-Test<b/>
-----/linjiach   The core code of agent. Use Makefile to build it.<b/>
+# Raidgame-Agent 
+
+Test
+
+----/linjiach   The core code of agent. Use Makefile to build it.
+
 ----/platform   The platform that stimulates the competition. Run ai.sh.
